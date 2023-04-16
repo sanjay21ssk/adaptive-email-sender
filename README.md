@@ -6,7 +6,7 @@ Team Member 1 - https://trailblazer.me/id/bash7
 
 Team Member  2  -  https://trailblazer.me/id/aru1
 
-Team Member  3  -  trailblazer.me/id/bar8
+Team Member  3  -  https://trailblazer.me/id/bar8
 
 # preview
 
